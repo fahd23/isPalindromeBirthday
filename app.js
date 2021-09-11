@@ -153,7 +153,7 @@ function clickHandler() {
         }
     }
     else {
-        output.innerText ="Please  Enter your birthday date 🙁";
+        output.innerText ="❗ Please  Enter your birthday date 🙁";
     }
 }
 
